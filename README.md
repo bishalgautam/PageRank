@@ -6,4 +6,4 @@
 2. Give input file path as args[0]
 3. Give output folder path as args[1]
 4. Provide the iteration as args[2]
-5. Run the Cluster and Enjoy !!!
+5. Submit the job and Enjoy !!!
